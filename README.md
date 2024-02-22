@@ -18,10 +18,10 @@ Here are some technologies I have been working with:
 ## 📂 My Projects
 Here are a few projects I've worked on:
 
-### [🌐 Project 1 - [NexaLearn Academy🏙](https://nexa-learn.netlify.app/)]
+### [🌐 Project 1 - [NexaLearn Academy 🏙](https://nexa-learn.netlify.app/)]
 I have put this project on first priority because I have enjoyed making this project a lot. This is an education academy related website which a wide array of courses in design, development, marketing, and more. Leveraging modern design principles and user-centric functionality, Nexa Learn Academy empowers students to embark on a journey of skill enhancement and career growth. It took me 5 to 6 months to complete this website because I did it myself from design to development.
 
-### [🌐 Project 2 - [BMI Finder!](https://find-bmi.netlify.app/)]
+### [🌐 Project 2 - [BMI Finder 📐](https://find-bmi.netlify.app/)]
 This project provides a straightforward and user-friendly interface to help individuals calculate their BMI quickly and accurately.
 
 ### 🗝Features:
@@ -29,9 +29,15 @@ This project provides a straightforward and user-friendly interface to help indi
 - Real-time Results: Get instant BMI results as you enter your information, allowing for quick and easy analysis.
 - Interpretation: Receive a clear interpretation of your BMI category, indicating whether you are underweight, normal weight, overweight, or obese.
 
-### [🌐 Project 2 - [Guess The Number Challenge!](https://number-guessing-challenge.netlify.app/)]
+### [🌐 Project 2 - [Guess The Number Challenge 🎮](https://number-guessing-challenge.netlify.app/)]
 Welcome to the "Guess the Number" Challenge – a thrilling game that puts your intuition and guessing skills to the test! Can you guess the hidden number within the specified number of moves? Take on the challenge and find out!
 Feel free to explore my repositories for more projects!
+
+### 🗝Features:
+- Interactive Gameplay: Engage in an exciting guessing game where you try to figure out the secret number.
+- Adjustable Difficulty: Tailor the challenge to your preference by setting the number of moves allowed for guessing.
+- Rule Book: Access the rule book for a comprehensive guide on how to play, making it easy for players of all levels to understand.
+- Feedback and Scores: Receive instant feedback on your guesses and track your performance with a scoring system.
 
 <!---
 Design-With-Dheeraj/Design-With-Dheeraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
