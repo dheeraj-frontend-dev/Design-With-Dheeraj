@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm [Dheeraj Kumar Yadav]
-<h1 style="text-align: center; margin: 0 auto;">Hi there! 👋🏻 I'm [Dheeraj Kumar Yadav]</h1>
+<h1 align="center">Hi there! 👋🏻 I'm [Dheeraj Kumar Yadav]</h1>
 
 ## 🚀 About Me
 I am a passionate Front-End Developer with a keen interest in creating visually appealing and user-friendly web applications. Although I haven't landed my first job yet, I am actively working on honing my skills and contributing to the developer community.
