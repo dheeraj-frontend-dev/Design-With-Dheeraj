@@ -18,7 +18,7 @@ Here are some technologies I have been working with:
 ## 📂 My Projects
 Here are a few projects I've worked on:
 
-### [Project 1 - NexaLearn Academy]([Link to Project 1](https://nexa-learn.netlify.app/))
+### [Project 1 - ([NexaLearn Academy!](https://nexa-learn.netlify.app/))]
 Short description or key features of the project.
 
 ### [Project 2 Name](Link to Project 2)
