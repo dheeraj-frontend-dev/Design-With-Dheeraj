@@ -19,7 +19,7 @@ Here are some technologies I have been working with:
 Here are a few projects I've worked on:
 
 ### [Project 1 - ([NexaLearn Academy!](https://nexa-learn.netlify.app/))]
-Short description or key features of the project.
+I have put this project on first priority because I have enjoyed making this project a lot. This is an education academy related website which provides multiple trendy human skill courses. It took me 5 to 6 months to complete this website because I did it myself from design to development.
 
 ### [Project 2 Name](Link to Project 2)
 Short description or key features of the project.
