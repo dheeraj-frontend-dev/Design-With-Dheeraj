@@ -24,7 +24,7 @@ I have put this project on first priority because I have enjoyed making this pro
 ### [🌐 Project 2 - [BMI Finder!](https://find-bmi.netlify.app/)]
 This project provides a straightforward and user-friendly interface to help individuals calculate their BMI quickly and accurately.
 
-###🗝Features:
+### 🗝Features:
 - Simple Input: Input your height and weight effortlessly.
 - Real-time Results: Get instant BMI results as you enter your information, allowing for quick and easy analysis.
 - Interpretation: Receive a clear interpretation of your BMI category, indicating whether you are underweight, normal weight, overweight, or obese.
