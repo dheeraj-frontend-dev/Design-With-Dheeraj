@@ -18,7 +18,7 @@ Here are some technologies I have been working with:
 ## 📂 My Projects
 Here are a few projects I've worked on:
 
-### [🌐 Project 1 - [NexaLearn Academy!](https://nexa-learn.netlify.app/)]
+### [🌐 Project 1 - [NexaLearn Academy🏙](https://nexa-learn.netlify.app/)]
 I have put this project on first priority because I have enjoyed making this project a lot. This is an education academy related website which a wide array of courses in design, development, marketing, and more. Leveraging modern design principles and user-centric functionality, Nexa Learn Academy empowers students to embark on a journey of skill enhancement and career growth. It took me 5 to 6 months to complete this website because I did it myself from design to development.
 
 ### [🌐 Project 2 - [BMI Finder!](https://find-bmi.netlify.app/)]
@@ -29,9 +29,8 @@ This project provides a straightforward and user-friendly interface to help indi
 - Real-time Results: Get instant BMI results as you enter your information, allowing for quick and easy analysis.
 - Interpretation: Receive a clear interpretation of your BMI category, indicating whether you are underweight, normal weight, overweight, or obese.
 
-### [Project 3 Name](Link to Project 3)
-Short description or key features of the project.
-
+### [🌐 Project 2 - [Guess The Number Challenge!](https://number-guessing-challenge.netlify.app/)]
+Welcome to the "Guess the Number" Challenge – a thrilling game that puts your intuition and guessing skills to the test! Can you guess the hidden number within the specified number of moves? Take on the challenge and find out!
 Feel free to explore my repositories for more projects!
 
 <!---
