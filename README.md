@@ -12,10 +12,14 @@ I am a passionate Front-End Developer with a keen interest in creating visually 
 ## ⚡ Tech Stack
 Here are some technologies I have been working with:
 
-- HTML
-- CSS
-- JavaScript
-- React JS (in progress)
+![HTML](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/9d4e5e4b-8772-4599-9f5a-73e4a5bc6649)
+![CSS](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/177a0a45-6f8b-4cfd-ad8e-2dd5f4e79eac)
+![JavaScript](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/71602ef5-ec8d-4488-9123-88315db38a59)
+![Figma](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/89a682b2-1723-42e6-98dc-69fc5be8e355)
+
+### 🌲 In Progress
+![React](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/126c42c2-6a80-49b6-bfd9-f75da451deaf)
+
 
 ## 📂 My Projects
 Here are a few projects I've worked on:
