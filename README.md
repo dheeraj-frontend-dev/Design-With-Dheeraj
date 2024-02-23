@@ -18,7 +18,8 @@ Here are some technologies I have been working with:
 ![Figma](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/89a682b2-1723-42e6-98dc-69fc5be8e355)
 
 ### 🌲 In Progress
-![React](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/126c42c2-6a80-49b6-bfd9-f75da451deaf)
+![React](https://github.com/Design-With-Dheeraj/Design-With-Dheeraj/assets/120724794/bdfad5b9-7fca-48ac-84ab-551af2f6a468)
+
 
 
 ## 📂 My Projects
