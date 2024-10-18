@@ -36,7 +36,7 @@ This project provides a straightforward and user-friendly interface to help indi
 - Real-time Results: Get instant BMI results as you enter your information, allowing for quick and easy analysis.
 - Interpretation: Receive a clear interpretation of your BMI category, indicating whether you are underweight, normal weight, overweight, or obese.
 
-### [🌐 Project 2 - [Guess The Number Challenge 🎮](https://canyouguess-bydheeraj.netlify.app/)]
+### [🌐 Project 3 - [Guess The Number Challenge 🎮](https://canyouguess-bydheeraj.netlify.app/)]
 Welcome to the "Guess the Number" Challenge – a thrilling game that puts your intuition and guessing skills to the test! Can you guess the hidden number within the specified number of moves? Take on the challenge and find out!
 Feel free to explore my repositories for more projects!
 
